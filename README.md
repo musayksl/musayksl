@@ -7,6 +7,7 @@ Kaliteli işler yaparak kendimi geliştirmek, mühendisliğe katkı sağlamak ve
 ## İlgi Alanlarım:
 - Arduino ile proje geliştirme
 - Temel elektronik & programlama
+- Proje tabanlı öğrenme
 
 ## Üzerinde Çalıştığım Projeler:
 - Akıllı gece lambası (Arduino)
