@@ -11,6 +11,7 @@ Kaliteli işler yaparak kendimi geliştirmek, mühendisliğe katkı sağlamak ve
 
 ## Üzerinde Çalıştığım Projeler:
 - Akıllı gece lambası (Arduino)
+- Arduino ile LED Parlaklık Kontrolü Projesi
 
 > Geliştikçe burayı güncelliyorum. Projelerime göz atmayı unutma!
 
